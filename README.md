@@ -1,2 +1,2 @@
 # MapaArquitectura
-Mapa de Arquitectura del Banco Provincia
+Mapa de Arquitectura
